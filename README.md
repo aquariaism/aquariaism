@@ -9,7 +9,7 @@ Computer Science student | Web Developer | Data Analytics Enthusiast | Curious B
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="70%" valign="top">
 
 I enjoy turning ideas into working products.  
 Currently exploring how **clean code, good UI, data, and real-world problems** come together.
