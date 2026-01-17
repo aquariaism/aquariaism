@@ -9,7 +9,8 @@ Computer Science student | Web Developer | Data Analytics Enthusiast | Curious B
 
 I enjoy turning ideas into working products.  
 Currently exploring how **clean code, good UI, data, and real-world problems** come together.
-<p>📫 How to reach me **abhishek825177@gmail.com**</p>
+<p>📬 How to reach me: [abhishek825177@gmail.com](mailto:abhishek825177@gmail.com)
+</p>
 
 
 - 🌱 Learning **Advanced Web Development, C++ & Data Analytics**
