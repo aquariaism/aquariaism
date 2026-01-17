@@ -8,42 +8,26 @@
 Computer Science student | Web Developer | Data Analytics Enthusiast | Curious Builder
 </h3>
 
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300" />
+</p>
+
 ---
 
-<table border="0" cellspacing="0" cellpadding="10">
-<tr>
+### I enjoy turning ideas into working products.
 
-<td width="60%" valign="top">
+Currently exploring how **clean code, good UI, data, and real-world problems** come together.
 
-<h3>I enjoy turning ideas into working products.</h3>
+📬 **How to reach me:**  
+[abhishek825177@gmail.com](mailto:abhishek825177@gmail.com)
 
-<p>
-Currently exploring how <strong>clean code, good UI, data, and real-world problems</strong> come together.
-</p>
+---
 
-<p>
-📬 <strong>How to reach me:</strong><br>
-<a href="mailto:abhishek825177@gmail.com">abhishek825177@gmail.com</a>
-</p>
-
-<ul>
-  <li>🌱 Learning <strong>Advanced Web Development, C++ & Data Analytics</strong></li>
-  <li>📊 Interested in <strong>data analysis, insights, and visualization</strong></li>
-  <li>🛠 Building projects using <strong>HTML, CSS, JavaScript</strong></li>
-  <li>🤝 Open to collaborating on <strong>student & open-source projects</strong></li>
-  <li>✍️ I like expressing thoughts through <strong>writing & poetry</strong></li>
-</ul>
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="320" />
-
-</td>
-
-</tr>
-</table>
+- 🌱 Learning **Advanced Web Development, C++ & Data Analytics**
+- 📊 Interested in **data analysis, insights, and visualization**
+- 🛠 Building projects using **HTML, CSS, JavaScript**
+- 🤝 Open to collaborating on **student & open-source projects**
+- ✍️ I like expressing thoughts through **writing & poetry**
 
 ---
 
