@@ -19,7 +19,7 @@ Currently exploring how **clean code, good UI, data, and real-world problems** c
 ---
 
 ### 🧰 Tech I work with
-<img src="https://skillicons.dev/icons?i=c,java,html,css,js,python" />
+<img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,python" />
 
 ---
 
