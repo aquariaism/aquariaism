@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=aquariaism&label=Profile%20views&color=0e75b6&style=flat" />
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/59436477121269.5c7e79cd23666.gif" width="300" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/59436477121269.5c7e79cd23666.gif" width="500" />
 </p>
 
 <h1 align="center">Hi, I'm Abhishek 👋</h1>
