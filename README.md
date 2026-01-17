@@ -9,8 +9,7 @@ Computer Science student | Web Developer | Data Analytics Enthusiast | Curious B
 
 I enjoy turning ideas into working products.  
 Currently exploring how **clean code, good UI, data, and real-world problems** come together.
-<hr>
-📫 How to reach me abhishek825177@gmail.com
+<p>📫 How to reach me abhishek825177@gmail.com</p>
 ## 🔗 Connect with me
 <p align="left">
 <a href="https://github.com/aquariaism"><img src="https://skillicons.dev/icons?i=github" /></a>
