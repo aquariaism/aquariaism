@@ -9,12 +9,12 @@ Computer Science student | Web Developer | Data Analytics Enthusiast | Curious B
 
 I enjoy turning ideas into working products.  
 Currently exploring how **clean code, good UI, data, and real-world problems** come together.
-<p>📫 How to reach me abhishek825177@gmail.com</p>
+<p>📫 How to reach me **abhishek825177@gmail.com**</p>
 ## 🔗 Connect with me
 <p align="left">
 <a href="https://github.com/aquariaism"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/abhishek-das-24b24b316"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://twitter.com/https://www.instagram.com/_abhiishek__08/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_abhiishek__08/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 - 🌱 Learning **Advanced Web Development, C++ & Data Analytics**
