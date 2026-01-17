@@ -16,10 +16,13 @@ Currently exploring how **clean code, good UI, data, and real-world problems** c
 - 🤝 Open to collaborating on **student & open-source projects**
 - ✍️ I like expressing thoughts through **writing & poetry**
 
+## 🐍 Contribution Graph
+![Snake animation](https://github.com/aquariaism/aquariaism/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 🧰 Tech I work with
-<img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,git,github,vscode,mysql,react" />
 
 ---
 
