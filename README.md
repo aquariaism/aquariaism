@@ -10,7 +10,7 @@ Computer Science student | Web Developer | Data Analytics Enthusiast | Curious B
 I enjoy turning ideas into working products.  
 Currently exploring how **clean code, good UI, data, and real-world problems** come together.
 
-- 🌱 Learning **Advanced Web Development, Java & Data Analytics**
+- 🌱 Learning **Advanced Web Development, C++ & Data Analytics**
 - 📊 Interested in **data analysis, insights, and visualization**
 - 🛠 Building projects using **HTML, CSS, JavaScript**
 - 🤝 Open to collaborating on **student & open-source projects**
