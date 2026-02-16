@@ -19,11 +19,11 @@ Currently exploring how **clean code, good UI, data, and real-world problems** c
 
 ---
 
-- 🌱 Learning **Advanced Web Development, C++ & Data Analytics**
-- 📊 Interested in **data analysis, insights, and visualization**
-- 🛠 Building projects using **HTML, CSS, JavaScript**
-- 🤝 Open to collaborating on **student & open-source projects**
-- ✍️ I like expressing thoughts through **writing & poetry**
+-  Learning **Advanced Web Development, C++ & Data Analytics**
+-  Interested in **data analysis, insights, and visualization**
+-  Building projects using **HTML, CSS, JavaScript**
+-  Open to collaborating on **student & open-source projects**
+-  I like expressing thoughts through **writing & poetry**
 
 ---
 
