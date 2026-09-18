@@ -6,7 +6,7 @@
 
 <h1 align="center">Namaste!, It's Abhishek here</h1>
 <h3 align="center">
-Computer Science student | Web Developer | Data Analytics Enthusiast | Curious Builder
+Computer Science student | Software Developer | Data Scientist | Cricketer
 </h3>
 
 ---
@@ -20,6 +20,7 @@ Apart from coding as like every other Indian there's a good chance you'll find m
 
 📬 **How to reach me:**  
 [abhishek825177@gmail.com](mailto:abhishek825177@gmail.com)
+[Linkedin_Abhishek](https://www.linkedin.com/in/abhishek-das-24b24b316/)
 
 ---
 
