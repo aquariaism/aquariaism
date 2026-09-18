@@ -18,9 +18,8 @@ My journey into Computer Science wasn't something I had completely figured out f
 I like learning by actually building things, so you'll probably find a mixture of projects, experiments and things I'm currently figuring out in my repositories.
 Apart from coding as like every other Indian there's a good chance you'll find me watching or following cricket. What fascinates me the most is the statistical side of the game — the numbers, patterns and everything that happens behind a player's performance and I hope to link my love for cricket, data and tech together one day and make it much more easier so that the game can be more popular globally.
 
-📬 **How to reach me:**  
+**You can reach me through:**  
 [abhishek825177@gmail.com](mailto:abhishek825177@gmail.com)
-
 [Linkedin_Abhishek](https://www.linkedin.com/in/abhishek-das-24b24b316/)
 
 ---
