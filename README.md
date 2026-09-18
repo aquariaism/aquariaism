@@ -25,7 +25,7 @@ Apart from coding as like every other Indian there's a good chance you'll find m
 ---
 
 ### 🧰 Tech I work with
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,git,github,vscode,mysql,react,mysql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,git,github,vscode,mysql,react,tableau,powerBI" />
 
 ---
 
